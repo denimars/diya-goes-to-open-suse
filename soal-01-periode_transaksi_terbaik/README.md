@@ -75,9 +75,9 @@ func BestPeriod(t []int) int {
 }
 ```
 
-Inti idenya satu kalimat: *di tiap hari, putuskan lanjut periode berjalan atau mulai baru — mana yang lebih besar.*
+Inti idenya satu kalimat: *di tiap hari, putuskan lanjut periode berjalan atau mulai baru mana yang lebih besar.*
 
-### Rubrik Penilaian
+### Penilaian
 
 - ⭐ Menghasilkan solusi benar (walau O(n²)) + sadar kasus semua-negatif → paham dasar.
 - ⭐⭐ Sampai ke Kadane, atau O(n²) yang bersih plus tahu cara memperbaikinya.
