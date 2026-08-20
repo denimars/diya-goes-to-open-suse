@@ -1,7 +1,7 @@
 # Diya Goes To openSUSE
 
 
-Repo ini berisi serangkaian **soal logika** yang harus kamu pecahkan menggunakan bahasa **Go**. Yang kami nilai bukan sekadar jawaban benar, tapi **cara kamu berpikir**: bagaimana kamu memilih pendekatan, menangani kasus, dan menuliskannya dengan kode yang bersih.
+Repo ini berisi serangkaian **soal logika** yang harus kamu pecahkan menggunakan bahasa **Go**. Yang kami nilai bukan sekadar jawaban benar, tapi **cara kamu berpikir** bagaimana kamu memilih pendekatan, menangani kasus, dan menuliskannya dengan kode yang bersih.
 
 ---
 
@@ -31,7 +31,7 @@ Repo ini berisi serangkaian **soal logika** yang harus kamu pecahkan menggunakan
    git push origin main
    ```
 
-6. **Kirim link fork-mu** ke tim Diya sesuai instruksi yang diberikan.
+6. **Kirim link fork-mu** ke Grup diya project batch 5
 
 ---
 
@@ -40,7 +40,7 @@ Repo ini berisi serangkaian **soal logika** yang harus kamu pecahkan menggunakan
 **Yang DILARANG KERAS (haram):**
 - ❌ Menggunakan AI (ChatGPT, Claude, GitHub Copilot, Gemini, dan sejenisnya) untuk **menjawab / menghasilkan solusi** soal. Tes ini untuk mengukur logikamu, bukan logika mesin. Jawaban yang terdeteksi hasil AI langsung gugur.
 
-**Yang BOLEH:**
+**BOLEH:**
 - ✅ Membuka **project lama** milikmu sendiri sebagai referensi.
 - ✅ Membuka dokumentasi resmi Go ([go.dev](https://go.dev/doc/)), mencari **sintaks** atau fungsi standard library.
 - ✅ Menggunakan editor/IDE apa pun (tanpa fitur AI completion yang menuliskan solusi untukmu).
