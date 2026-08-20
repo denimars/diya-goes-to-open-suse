@@ -1,7 +1,7 @@
 # Diya Goes To openSUSE — Tes Logika Golang
 
 
-Repo ini berisi serangkaian **soal logika** yang harus kamu pecahkan menggunakan bahasa **Go**. Yang kami nilai bukan sekadar jawaban benar, tapi **cara kamu berpikir**: bagaimana kamu memilih pendekatan, menangani kasus tepi, dan menuliskannya dengan kode yang bersih.
+Repo ini berisi serangkaian **soal logika** yang harus kamu pecahkan menggunakan bahasa **Go**. Yang kami nilai bukan sekadar jawaban benar, tapi **cara kamu berpikir**: bagaimana kamu memilih pendekatan, menangani kasus, dan menuliskannya dengan kode yang bersih.
 
 ---
 
