@@ -77,7 +77,3 @@ Kerjakan **semua folder**. Kalau ada soal yang tidak sempat/tidak bisa kamu sele
 - **Kejelasan** — kode mudah dibaca, penamaan variabel masuk akal.
 - **Cara berpikir** — pilihan struktur data & algoritma yang tepat, bukan asal jalan.
 - **Kejujuran** — hasil pemikiran sendiri (lihat Aturan Main di atas).
-
----
-
-*Diya Project — "lilin kecil yang menyalakan yang lain."*
