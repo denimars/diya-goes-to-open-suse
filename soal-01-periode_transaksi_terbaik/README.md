@@ -1,4 +1,4 @@
-# Soal Logika — Test Kandidat Diya (Golang)
+# Soal Logika Test Kandidat Diya (Golang)
 
 > Pecahkan dengan menulis kode Go. Ceritakan dulu pendekatanmu sebelum ngoding, baru implementasikan.
 
